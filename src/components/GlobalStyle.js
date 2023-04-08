@@ -18,8 +18,6 @@ code {
 
 #root {
   background: repeating-linear-gradient(45deg, black 1% 3%, #280569 5% 1%);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
   min-height: 100vh;
   padding: 50px;
 }
